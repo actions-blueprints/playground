@@ -9,6 +9,4 @@ central-ci:
   flavour: vanilla
 ```
 
-
-
-Place a screenshot of the Actions tab!
+![image](https://github.com/user-attachments/assets/67e6f3f3-80ad-4c0a-9ea1-55a44cecfbf0)
