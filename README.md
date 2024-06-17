@@ -1,3 +1,3 @@
 # actions playground
 
-wrong value
+wrong value and not exit code
