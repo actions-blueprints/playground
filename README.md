@@ -11,4 +11,4 @@ central-ci:
 
 
 
-Place a screenshot of the Actions tab in the repository showing the workflow runs.
+Place a screenshot of the Actions tab
