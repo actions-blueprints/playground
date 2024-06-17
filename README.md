@@ -9,3 +9,6 @@ central-ci:
   flavour: vanilla
 ```
 
+
+
+Place a screenshot of the Actions tab in the repository showing the workflow runs.
