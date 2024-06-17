@@ -9,3 +9,4 @@ central-ci:
   flavour: vanilla
 ```
 
+![image](https://github.com/user-attachments/assets/67e6f3f3-80ad-4c0a-9ea1-55a44cecfbf0)
