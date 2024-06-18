@@ -1,0 +1,16 @@
+name: Local CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Central CI Build
+    uses: actions-blueprints/central-workflows/.github/workflows/reusable-strawberry.yml@main
+
+
+      
