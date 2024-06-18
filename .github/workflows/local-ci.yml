@@ -10,6 +10,7 @@ on:
 jobs:
   build:
     name: Central CI Build
-    uses: actions-blueprints/central-workflows/.github/workflows/reusable.yml@main
-    with:
-      flavour: 'vanilla'
+    uses: actions-blueprints/central-workflows/.github/workflows/reusable-strawberry.yml@main
+
+
+      
